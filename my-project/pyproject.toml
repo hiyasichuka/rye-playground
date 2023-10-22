@@ -3,7 +3,7 @@ name = "my-project"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Kei Takahashi", email = "takahashi.kgs@om.asahi-kasei.co.jp" }
+    { name = "Kei Takahashi", email = "hogehoge" }
 ]
 dependencies = []
 readme = "README.md"
